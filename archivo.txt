@@ -1,1 +1,2 @@
 Hola, esto es una prueba de git
+He añadido otra linea en archivo.txt
