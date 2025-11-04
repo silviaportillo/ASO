@@ -1,3 +1,1 @@
-Hola, esto es una prueba de git
-He añadido otra linea en archivo.txt
-He añadido una tercera linea desde Github
+Intento 2  de conflicto
